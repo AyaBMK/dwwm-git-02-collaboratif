@@ -14,7 +14,6 @@
 .paragraphe{
     font-size: 20px ;
 }
-<<<<<<< HEAD
 .pizza{
     display: flex;
     justify-content: space-around;
@@ -39,8 +38,7 @@ footer {
   }
 .fa-instagram{
     padding-right: 20px;
-=======
-
+}
 header {
     display: flex;
     flex-direction: row;
@@ -63,5 +61,4 @@ nav{
 
 nav div{
     margin: 5%;
->>>>>>> 6c5248100daebe0d104bc90f91a6fc8a04edf2b0
 }
