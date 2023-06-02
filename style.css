@@ -1,3 +1,4 @@
+
 .titre{
     padding-left: 50px;
 }
@@ -12,4 +13,29 @@
 }
 .paragraphe{
     font-size: 20px ;
+}
+.pizza{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+.photo{
+    width: 50%;
+    height: 50%;
+}
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #f0f0f0;
+    padding: 20px;
+    /*text-align: center;*/
+  }
+  
+.mentions_legales {
+    font-size: 14px;
+    color: #888;
+  }
+.fa-instagram{
+    padding-right: 20px;
 }
