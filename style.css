@@ -13,3 +13,27 @@
 .paragraphe{
     font-size: 20px ;
 }
+
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(255,0,0);
+    background: linear-gradient(144deg, rgba(255,0,0,1) 0%, rgba(237,237,237,1) 50%, rgba(5,85,0,1) 100%);
+}
+
+.logo img{
+    border: 0;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    font-size: 250%;
+    margin-right: 20%;
+}
+
+nav div{
+    margin: 5%;
+}
