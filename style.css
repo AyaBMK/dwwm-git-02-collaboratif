@@ -1,4 +1,15 @@
-.photo{
+.titre{
+    padding-left: 50px;
+}
+.bloc{
     display: flex;
-    flex-direction: row;
+    /*justify-content: space-around;*/
+    align-items: center;
+    padding-left: 50px;
+}
+.photo{
+    padding-right: 50px;
+}
+.paragraphe{
+    font-size: 20px ;
 }
